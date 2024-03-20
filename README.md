@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Dev patel
-- 👀 I’m interested in Frontend and Web devlopement
-- 🌱 I’m currently learning ReactJs
+- 👀 I’m interested in Frontend, Backend and Full Stack Web devlopement
 - 📫 How to reach me Instagram : @dev_ptz
 - ⚡ Fun fact: I am dev that's why I am developer
 
